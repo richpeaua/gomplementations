@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Gache.go")
+	fmt.Println("Gache.go!")
 }
 
